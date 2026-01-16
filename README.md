@@ -17,6 +17,10 @@
 ![curl](screenshots/curl.png)
 *вывод curl*
 
+![haproxystats](screenshots/haproxy_stats.png)
+*вывод curl*
+
+
 ## Конфигурация HAProxy
 
 Полный конфигурационный файл: [haproxy1.cfg](./haproxy1.cfg)
