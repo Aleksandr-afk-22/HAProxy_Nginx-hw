@@ -12,12 +12,17 @@
 **Решение:**
 
 ![ss](screenshots/ss.png)
+
 *вывод ss*
 
+
 ![curl](screenshots/curl.png)
+
 *вывод curl*
 
+
 ![haproxystats](screenshots/haproxy_stats.png)
+
 *haproxy stats*
 
 
