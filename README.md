@@ -48,7 +48,7 @@
 
 *вывод curl*
 
-![haproxystats2](screenshots/haproxy_stats2.png)
+![haproxystats2](screenshots/haproxy-stats2.png)
 
 ## Конфигурация HAProxy
 
