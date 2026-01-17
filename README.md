@@ -40,7 +40,7 @@
 
 **Решение:**
 
-![ss](screenshots/ss2.png)
+![ss2](screenshots/ss2.png)
 
 *вывод ss*
 
