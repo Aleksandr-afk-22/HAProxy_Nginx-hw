@@ -44,4 +44,13 @@
 
 *вывод ss*
 
+![test-haproxy](screenshots/test-haproxy2.png)
+
+*вывод curl*
+
+![haproxystats2](screenshots/haproxy_stats2.png)
+
+## Конфигурация HAProxy
+
+Полный конфигурационный файл: [haproxy2.cfg](./haproxy2.cfg)
 
